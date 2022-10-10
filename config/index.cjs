@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '2d71bb9061eeef438737c7f1566674e4',
 
   PROVINCE: '江苏',
-  CITY: '扬中',
+  CITY: '镇江',
 
   USERS: [
     {
@@ -51,13 +51,13 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: '_s9jP3xbGB-O7IVO9k9Rpz0RXMIdXu3vDG0WvkWejyg',
 
   CALLBACK_USERS: [
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'o9jEU6R9TcjnGdaAtLh4h_kEigMs',
     }
   ],
 
